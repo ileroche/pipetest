@@ -1,4 +1,4 @@
-ROM debian
+FROM debian
 
 MAINTAINER Curso Devops Grupo15 "basededato@gmail.com"
 
