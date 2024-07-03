@@ -1,6 +1,6 @@
 FROM debian
 
-MAINTAINER Curso Devops Grupo15 "basededato@gmail.com"
+MAINTAINER Curso Devops Grupo15 "aleit2022@gmail.com"
 
 RUN apt-get update && apt-get install -y apache2 && apt-get clean && rm -rf /var/lib/apt/lists/*
 
